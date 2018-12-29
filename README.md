@@ -1,3 +1,1 @@
-# devconnector
-
-[Link](https://superdevconnector.herokuapp.com/)
+# devconnector - [Live - Link](https://superdevconnector.herokuapp.com/)
