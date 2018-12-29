@@ -1,6 +1,6 @@
 # devconnector - [Live Link](https://superdevconnector.herokuapp.com/)
 
-#### Small social network app built with the MERN stack.
+> Small social network app built with the MERN stack.
 
 ## Quick Start
 
